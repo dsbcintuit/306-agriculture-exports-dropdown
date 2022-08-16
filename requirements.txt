@@ -17,6 +17,8 @@ six==1.16.0
 tenacity==8.0.1
 Werkzeug==2.0.3
 
+openpyxl 3.0.10
+
 
 # Required for deployment on Heroku
 gunicorn==20.1.0
