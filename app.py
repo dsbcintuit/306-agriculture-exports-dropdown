@@ -19,7 +19,8 @@ list_of_columns =
  'code',
  'state',
  'Beef and veal',
- 'Pork']
+ 'Pork',
+ 'Corn']
 
 
 # [
@@ -76,7 +77,7 @@ app.layout = html.Div(children=[
                 dcc.Dropdown(
                     id='options-drop',
                     options=[{'label': i, 'value': i} for i in list_of_columns],
-                    value='corn'
+                    value='Corn'
                 ),
         ], className='two columns'),
         html.Div([dcc.Graph(id='figure-cancan'),
