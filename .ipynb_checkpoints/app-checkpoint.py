@@ -6,6 +6,8 @@ from dash.dependencies import Input, Output, State
 import plotly.graph_objs as go
 import pandas as pd
 
+from openpyxl import Workbook
+
 ########### Define your variables ######
 
 tabtitle = 'EIEIO'
