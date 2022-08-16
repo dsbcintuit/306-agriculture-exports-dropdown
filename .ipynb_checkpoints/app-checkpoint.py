@@ -14,8 +14,7 @@ tabtitle = 'EIEIO'
 sourceurl = 'https://plot.ly/python/choropleth-maps/'
 githublink = 'https://github.com/dsbcintuit/306-agriculture-exports-dropdown'
 # here's the list of possible columns to choose from.
-list_of_columns =
-[
+list_of_columns =[
  'code',
  'state',
  'Beef and veal',
