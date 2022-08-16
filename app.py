@@ -14,37 +14,45 @@ tabtitle = 'EIEIO'
 sourceurl = 'https://plot.ly/python/choropleth-maps/'
 githublink = 'https://github.com/dsbcintuit/306-agriculture-exports-dropdown'
 # here's the list of possible columns to choose from.
-list_of_columns =[
+list_of_columns =
+[
  'code',
  'state',
- 'category',
  'Beef and veal',
- 'Pork',
- 'Hides and skins',
- 'Other livestock products 1/',
- 'Dairy products',
- 'Broiler meat',
- 'Other poultry products 2/',
- 'Vegetables, fresh',
- 'Vegetables, processed',
- 'Fruits, fresh',
- 'Fruits, processed',
- 'Tree nuts',
- 'Rice',
- 'Wheat',
- 'Corn',
- 'Feeds and other feed grains 3/',
- 'Grain products, processed',
- 'Soybeans',
- 'Soybean meal',
- 'Vegetable oils',
- 'Other oilseeds and products 4/',
- 'Cotton',
- 'Tobacco',
- 'Other plant products 5/',
- 'Total agricultural exports 6/',
- 'Total animal products',
- 'Total plant products']
+ 'Pork']
+
+
+# [
+#  'code',
+#  'state',
+#  'category',
+#  'Beef and veal',
+#  'Pork',
+#  'Hides and skins',
+#  'Other livestock products 1/',
+#  'Dairy products',
+#  'Broiler meat',
+#  'Other poultry products 2/',
+#  'Vegetables, fresh',
+#  'Vegetables, processed',
+#  'Fruits, fresh',
+#  'Fruits, processed',
+#  'Tree nuts',
+#  'Rice',
+#  'Wheat',
+#  'Corn',
+#  'Feeds and other feed grains 3/',
+#  'Grain products, processed',
+#  'Soybeans',
+#  'Soybean meal',
+#  'Vegetable oils',
+#  'Other oilseeds and products 4/',
+#  'Cotton',
+#  'Tobacco',
+#  'Other plant products 5/',
+#  'Total agricultural exports 6/',
+#  'Total animal products',
+#  'Total plant products']
 
 
 ########## Set up the chart
